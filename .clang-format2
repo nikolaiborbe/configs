@@ -1,5 +1,5 @@
 ---
-BasedOnStyle: WebKit
+BasedOnStyle: llvm # could also use WebKit
 AlignConsecutiveAssignments: 'true'
 AlignTrailingComments: 'true'
 AllowShortCaseLabelsOnASingleLine: 'true'
